@@ -1,5 +1,14 @@
 # fastText
 
+http://www.premiuminfo.org
+
+
+http://www.premiuminfo.org
+
+
+http://www.premiuminfo.org
+
+http://www.premiuminfo.org
 fastText is a library for efficient learning of word representations and sentence classification.
 
 ## Requirements
